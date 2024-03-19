@@ -109,15 +109,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/shabbir-hossan/shabbir-hossan/output/snake.svg" alt="Snake animation" />
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=shabbir-hossan&theme=dark" alt="Layout with last medium posts"  />
-</div>
-
-###
