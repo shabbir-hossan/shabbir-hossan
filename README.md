@@ -1,33 +1,31 @@
-# Hi there 👋, I'm < Shabbir Hossan />
-### Developer and Designer
+<h1 align="center">Hi 👋, I'm < Shabbir Hossan /></h1>
+<h3 align="center">Programmer And Designer</h3>
 
-![Developer and Designer](https://scontent.fdac138-1.fna.fbcdn.net/v/t39.30808-6/352526682_1341023346448471_7703660078243947881_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=e3f864&_nc_eui2=AeH0McJeN0aOIqf54XPSYVAjz4Yf3vT86IPPhh_e9Pzog1c-GO4hvYug8ZFp_H9DmCOWy44cM5nzXewcNRDsvb8t&_nc_ohc=t9qsdeNhvIIAX-lhCt_&_nc_ht=scontent.fdac138-1.fna&oh=00_AfA1sD4fOAVepvd07F6Be9iOm_MZItV9bnVUTdLH0ndQ7A&oe=64F39FBC)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shabbir-hossan&label=Profile%20views&color=0e75b6&style=flat" alt="shabbir-hossan" /> </p>
 
-✅ Font-end Developer
-✅ Back-end Developer
-❤✅ UI/UX Designer
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shabbir-hossan" alt="shabbir-hossan" /></a> </p>
 
+- 🌱 I’m currently learning **Django**
 
-# 💫 About Me:
-I’m a Full stack Web developer and UX friendly UI Designer who is passionate about making error-free websites with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, goal-oriented, and always work with an end goal in mind. Over the past years, I created 50s of websites for my clients. I pride myself on doing quality work and maintaining excellent communication.
+- 👨‍💻 All of my projects are available at [https://github.com/shabbir-hossan](https://github.com/shabbir-hossan)
 
+- 💬 Ask me about **JavaScript, React.js**
 
-## 🌐 Socials:
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/sh_ab_bir) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/sha.ab.bir.54) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sh-ab-bir) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Sh_Ab_Bir) 
-
-# 💻 Tech Stack:
-<h3 align="center">A passionate frontend developer from India</h3>
+- 📫 How to reach me **shabbir.official54@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/shabbir-hossan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shabbir-hossan" height="30" width="40" /></a>
+<a href="https://fb.com/@shabbirhossan.5472" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="@shabbirhossan.5472" height="30" width="40" /></a>
+<a href="https://www.behance.net/shabbir-hossan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="shabbir-hossan" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shabbir-hossan&show_icons=true&locale=en&layout=compact" alt="shabbir-hossan" /></p>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=shabbir-hossan&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=shabbir-hossan&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shabbir-hossan&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shabbir-hossan&show_icons=true&locale=en" alt="shabbir-hossan" /></p>
 
----
-[![](https://visitcount.itsvg.in/api?id=shabbir-hossan&icon=0&color=0)](https://visitcount.itsvg.in)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shabbir-hossan&" alt="shabbir-hossan" /></p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
