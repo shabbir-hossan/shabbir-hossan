@@ -12,8 +12,8 @@
 
 ###
 
-<p align="left">Hello Everyone! I am Shabbir Hossan, a Frontend Web Developer and UX-friendly UI Designer. I am passionate about learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, goal-oriented and always work with an end goal in mind. <br><br> ♥️  I enjoy programming and sharing knowledge <br>
-💻  Most used line of code console.log("hello world") <br>- 📚 I'm currently learning  Django, Vue<br>- ⚡ In my free time I was playing<br>- 💬 Ask me about JavaScript, React.js</p>
+<p align="left">Hello Everyone! I am Shabbir Hossan, a Frontend Web Developer and UX-friendly UI Designer. I am passionate about learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, goal-oriented and always work with an end goal in mind. <br><br> -♥️  I enjoy programming and sharing knowledge <br>
+-💻  Most used line of code console.log("hello world") <br>- 📚 I'm currently learning  Django, Vue<br>- ⚡ In my free time I was playing<br>- 💬 Ask me about JavaScript, React.js</p>
 
 ###
 
