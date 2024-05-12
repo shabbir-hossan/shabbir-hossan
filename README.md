@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">Hello Everyone! I am Shabbir Hossan, a Frontend Web Developer and UX-friendly UI Designer. I am passionate about learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, goal-oriented and always work with an end goal in mind. <br><br> - ♥️I enjoy programming and sharing knowledge <br>
+<p align="left">Hey there! 👋 I'm Shabbir Hossan, a seasoned graphic and UI designer, and web developer with over four years of industry experience. From conceptualizing stunning visual designs to crafting intuitive user interfaces and developing responsive websites, I thrive on bringing creativity and functionality together. Passionate about clean code, pixel-perfect designs, and user-centric experiences, I'm committed to delivering top-notch solutions that leave a lasting impression. Let's collaborate and turn your ideas into digital masterpieces <br>
 - 📧 How to reach me: shabbir.official54@gmail.com.<br/>
 - 📚 I'm currently learning  Django, Vue <br/>
 - ⚡ In my free time I was playing<br/>
