@@ -12,7 +12,19 @@
 
 ###
 
-<p align="left">Hey there! 👋 I'm Shabbir Hossan, a seasoned graphic and UI designer, and web developer with over four years of industry experience. From conceptualizing stunning visual designs to crafting intuitive user interfaces and developing responsive websites, I thrive on bringing creativity and functionality together. Passionate about clean code, pixel-perfect designs, and user-centric experiences, I'm committed to delivering top-notch solutions that leave a lasting impression. Let's collaborate and turn your ideas into digital masterpieces <br>
+<p align="left">Hi there! 👋
+
+I'm Shabbir, a passionate UI/UX Designer and Web Developer with over 4+ years of experience in transforming ideas into compelling digital experiences. My journey in design and development is fueled by a passion for creating user-centric solutions that are both aesthetically pleasing and highly functional. I specialize in:
+
+    UI/UX Design: Crafting intuitive and delightful user interfaces.
+    Web Development: Building responsive and high-performance websites and applications.
+    User Research: Implementing in-depth research to guide design decisions and improve user satisfaction.
+    Prototyping & Wireframing: Converting concepts into interactive prototypes and detailed wireframes.
+    Collaborative Projects: Thriving in collaborative environments, working closely with cross-functional teams to achieve project goals.
+
+🚀 I'm always excited to take on new challenges and collaborate on innovative projects. Let's create something amazing together!
+
+💼 Currently open for freelance projects and full-time opportunities. <br>
   
 - 📧 How to reach me: shabbir.official54@gmail.com.<br/>
 - 📚 I'm currently learning  Django, Vue <br/>
