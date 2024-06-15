@@ -20,7 +20,7 @@ I'm Shabbir, a passionate UI/UX Designer and Web Developer with over 4+ years of
     Web Development: Building responsive and high-performance websites and applications.
     User Research: Implementing in-depth research to guide design decisions and improve user satisfaction.
     Prototyping & Wireframing: Converting concepts into interactive prototypes and detailed wireframes.
-    Collaborative Projects: Thriving in collaborative environments, working closely with cross-functional teams to achieve project goals.
+    Collaborative Projects: Working seamlessly with cross-functional teams to deliver outstanding results.
 
 🚀 I'm always excited to take on new challenges and collaborate on innovative projects. Let's create something amazing together!
 
